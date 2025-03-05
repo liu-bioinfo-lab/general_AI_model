@@ -16,27 +16,17 @@ download_refseq_hg38()
 * deeptools (3.5.1)
 
 Download the ATAC-seq bam files or align raw sequencing reads using ENCODE ATAC-seq pipeline
-```
-cells=(A LIST of CELL/TISSUES)
-# e.g., cells=(GM12878 K562 H1)
 
-for cl in "${cells[@]}"
-do
-    bamCoverage --bam ${cl}.bam -o ${cl}_atac.bigWig --outFileFormat bigwig --normalizeUsing RPGC \
+```
+# Obtain the input ATAC-seq file in python .pickle format
+
+bamCoverage --bam ${cl}.bam -o ${cl}_atac.bigWig --outFileFormat bigwig --normalizeUsing RPGC \
     --effectiveGenomeSize 2913022398 --Offset 1 --binSize 1 --numberOfProcessors 12 \
     --blackListFileName ../data/black_list.bed
 
-    python atac_process.py ${cl}_atac.bigWig
-done
+python atac_process.py ${cl}_atac.bigWig
 ```
-Then run the python script to get a merged file
 
-```
-from util import merge_atac
-cells=[A LIST OF CELLS]
-e.g., cells=['GM12878', 'K562', 'H1']
-merge_atac(cells)
-```
 
 
 
