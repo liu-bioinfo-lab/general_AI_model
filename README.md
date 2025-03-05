@@ -1,4 +1,6 @@
-# Developing a general AI model for integrating diverse genomic modalities and comprehensive genomic knowledge 
+# General AI model in genomics domain
+
+### Developing a general AI model for integrating diverse genomic modalities and comprehensive genomic knowledge 
 
 
 
