@@ -1,1 +1,1 @@
-# general_AI_model
+# general AI model
