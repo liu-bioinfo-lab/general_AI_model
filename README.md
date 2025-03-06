@@ -8,6 +8,8 @@ A [tutorial](https://epcotv2-tutorial.readthedocs.io/en/latest/) for using our m
 
 Additionally, our model's [web portal](https://huggingface.co/spaces/luosanj/EPCOTv2) is available, where users can easily predict diverse modalities.
 
+Source code and data processing script can be found [here](https://github.com/liu-bioinfo-lab/general_AI_model/tree/main/src)
+
 
 
 <img
