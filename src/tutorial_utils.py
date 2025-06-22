@@ -91,7 +91,7 @@ def prepare_input(
 
 def extract_outputs(outputs):
     rep_1d, rep_2d, _, _ = outputs
-    return rep_1d.cpu().detach().numpy(), rep_2d.cpu().detach().numpy()
+    return rep_1d[:,50:-50,:].squeeze().cpu().detach().numpy(), rep_2d[:,50:-50, 50:-50,:].squeeze().cpu().detach().numpy()
 
 
 class FastaStringExtractor:
