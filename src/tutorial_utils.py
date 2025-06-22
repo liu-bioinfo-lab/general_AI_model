@@ -5,6 +5,19 @@ import pickle
 import numpy as np
 import os
 import torch
+import argparse
+
+def parser_args():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--bins', type=int, default=600)
+    parser.add_argument('--crop', type=int, default=50)
+    parser.add_argument('--embed_dim', default=960, type=int)
+    args = parser.parse_args([])
+    return args
+
+def get_args():
+    args = parser_args()
+    return args
 
 def one_hot_encode(sequence):
     return kipoiseq.transforms.functional.one_hot_dna(sequence).astype(np.float32)
@@ -77,8 +90,8 @@ def prepare_input(
 
 
 def extract_outputs(outputs):
-    rep_1d, rep_2d, _, _ = [x.cpu().detach().numpy() for x in outputs]
-    return rep_1d, rep_2d
+    rep_1d, rep_2d, _, _ = outputs
+    return rep_1d.cpu().detach().numpy(), rep_2d.cpu().detach().numpy()
 
 
 class FastaStringExtractor:
