@@ -11,9 +11,10 @@
 
 ## Quick links
 
-- 📖 **Documentation & Tutorial:** https://epcotv2-tutorial.readthedocs.io  
-- 🌐 **Web Portal (no‑code demo):** https://huggingface.co/spaces/luosanj/EPCOTv2  
-- 🧪 **Basic notebook:** [`epcotv2_basic_tutorial.ipynb`](epcotv2_basic_tutorial.ipynb)  
+- 📖 **Documentation & Tutorial:** [epcotv2-tutorial.readthedocs.io](https://epcotv2-tutorial.readthedocs.io)  
+- 🌐 **Web Portal (no-code demo):** [Hugging Face Space](https://huggingface.co/spaces/luosanj/EPCOTv2)  
+- 🧪 **Basic notebook (Colab):**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liu-bioinfo-lab/general_AI_model/blob/main/epcotv2_basic_tutorial.ipynb)  
 - 🧰 **Source code & data processing:** [`src/`](src)
 
 ---
@@ -75,3 +76,8 @@ If you use EPCOT v2 in your work, please cite:
   publisher={Cold Spring Harbor Laboratory}
 }
 ```
+
+
+## License 
+
+This project is licensed under the MIT License.
