@@ -48,7 +48,7 @@ You can run the tutorial directly in **Google Colab** (no installation needed):
 
 The notebook walks through:
 - preparing inputs (DNA + ATAC-seq),
-- running predictions with EPCOT v2
+- running predictions with EPCOTv2
 
 ---
 
