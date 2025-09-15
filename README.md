@@ -1,4 +1,4 @@
-# EPCOTv2 — General AI for Integrative Genomic Prediction
+# EPCOTv2 — General AI model in genomics domain
 
 **EPCOTv2** is a general, multi-task genomic model that integrates **DNA sequence** and **ATAC-seq** to jointly predict a broad set of genomic modalities (transcription, epigenome, TF binding, and 3D chromatin). It produces multi‑modal outputs aligned to the same genome coordinates and is designed to generalize across diverse cell types and tissues.
 
