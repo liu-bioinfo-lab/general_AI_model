@@ -19,9 +19,9 @@
 
 ---
 
-## Installation (basic)
+## Installation
 
-For complete instructions and troubleshooting, see the Install guide:  
+For complete instructions, see the Install guide:  
 https://epcotv2-tutorial.readthedocs.io/en/latest/install/index.html
 
 Minimal local setup:
