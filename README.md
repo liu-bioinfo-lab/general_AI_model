@@ -63,11 +63,9 @@ https://huggingface.co/spaces/luosanj/EPCOTv2
 
 ## Pretrained models
 
-Pretrained EPCOTv2 checkpoints are hosted on Hugging Face:
+Pretrained EPCOTv2 checkpoints are hosted on Hugging Face for download.
 
 👉 [Download from Hugging Face](https://huggingface.co/spaces/luosanj/EPCOTv2/tree/main/models)
-
-These checkpoints are required to run the tutorials and reproduce results.
 
 ---
 
