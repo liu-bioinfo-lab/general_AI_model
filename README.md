@@ -11,6 +11,7 @@
 
 ## Quick links
 
+- 📄 **Paper (bioRxiv):** [Developing a general AI model for integrating diverse genomic modalities and comprehensive genomic knowledge](https://www.biorxiv.org/content/10.1101/2025.05.08.652986v1)  
 - 📖 **Documentation & Tutorial:** [epcotv2-tutorial.readthedocs.io](https://epcotv2-tutorial.readthedocs.io)  
 - 🌐 **Interactive Web Portal (Run predictions without installation):** [Hugging Face Space](https://huggingface.co/spaces/luosanj/EPCOTv2)  
 - 🧪 **Basic notebook (Colab):**  
