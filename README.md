@@ -11,12 +11,12 @@
 
 ## Quick links
 
-- 📄 **Paper (bioRxiv):** [Developing a general AI model for integrating diverse genomic modalities and comprehensive genomic knowledge](https://www.biorxiv.org/content/10.1101/2025.05.08.652986v1)  
-- 📖 **Documentation & Tutorial:** [epcotv2-tutorial.readthedocs.io](https://epcotv2-tutorial.readthedocs.io)  
-- 🌐 **Interactive Web Portal (Run predictions without installation):** [Hugging Face Space](https://huggingface.co/spaces/luosanj/EPCOTv2)  
-- 🧪 **Basic notebook (Colab):**  
+- **Paper (bioRxiv):** [Developing a general AI model for integrating diverse genomic modalities and comprehensive genomic knowledge](https://www.biorxiv.org/content/10.1101/2025.05.08.652986v1)  
+- **Documentation & Tutorial:** [epcotv2-tutorial.readthedocs.io](https://epcotv2-tutorial.readthedocs.io)  
+- **Interactive Web Portal (Run predictions without installation):** [Hugging Face Space](https://huggingface.co/spaces/luosanj/EPCOTv2)  
+- **Basic notebook (Colab):**  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liu-bioinfo-lab/general_AI_model/blob/main/epcotv2_basic_tutorial.ipynb)  
-- 🧰 **Source code & data processing:** [`src/`](src)
+- **Source code & data processing:** [`src/`](src)
 
 ---
 
@@ -65,7 +65,7 @@ https://huggingface.co/spaces/luosanj/EPCOTv2
 
 Pretrained EPCOTv2 checkpoints are hosted on Hugging Face for download.
 
-👉 [Download from Hugging Face](https://huggingface.co/spaces/luosanj/EPCOTv2/tree/main/models)
+[Download from Hugging Face](https://huggingface.co/spaces/luosanj/EPCOTv2/tree/main/models)
 
 ---
 
