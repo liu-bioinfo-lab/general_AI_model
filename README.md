@@ -13,7 +13,7 @@
 
 - **Paper (bioRxiv):** [Developing a general AI model for integrating diverse genomic modalities and comprehensive genomic knowledge](https://www.biorxiv.org/content/10.1101/2025.05.08.652986v1)  
 - **Documentation & Tutorial:** [epcotv2-tutorial.readthedocs.io](https://epcotv2-tutorial.readthedocs.io)  
-- **Interactive Web Portal (Run predictions without installation):** [Hugging Face Space](https://huggingface.co/spaces/luosanj/EPCOTv2)  
+- **Interactive Web Portal (Run predictions without installation):** [Hugging Face Space](https://huggingface.co/spaces/drjieliu/EPCOTv2-app)  
 - **Basic notebook (Colab):**  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liu-bioinfo-lab/general_AI_model/blob/main/epcotv2_basic_tutorial.ipynb)  
 - **Source code & data processing:** [`src/`](src)
