@@ -57,7 +57,7 @@ The notebook walks through:
 ## Try it in your browser (no code)
 
 Use the Hugging Face Space to run EPCOTv2 without installing anything:  
-https://huggingface.co/spaces/luosanj/EPCOTv2
+[https://huggingface.co/spaces/luosanj/EPCOTv2](https://huggingface.co/spaces/drjieliu/EPCOTv2-app)
 
 ---
 
