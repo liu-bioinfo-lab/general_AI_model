@@ -11,7 +11,7 @@
 
 ## Quick links
 
-- **Paper (bioRxiv):** [Developing a general AI model for integrating diverse genomic modalities and comprehensive genomic knowledge](https://www.biorxiv.org/content/10.1101/2025.05.08.652986v1)  
+- **Paper:** [Developing a general AI model for integrating diverse genomic modalities and comprehensive genomic knowledge](https://academic.oup.com/nar/article/53/21/gkaf1269/8340987)  
 - **Documentation & Tutorial:** [epcotv2-tutorial.readthedocs.io](https://epcotv2-tutorial.readthedocs.io)  
 - **Interactive Web Portal (Run predictions without installation):** [Hugging Face Space](https://huggingface.co/spaces/drjieliu/EPCOTv2-app)  
 - **Basic notebook (Colab):**  
@@ -78,11 +78,13 @@ If you use EPCOT v2 in your work, please cite:
 ```latex
 @article{zhang2025developing,
   title={Developing a general AI model for integrating diverse genomic modalities and comprehensive genomic knowledge},
-  author={Zhang, Zhenhao and Bao, Xinyu and Jiang, Linghua and Luo, Xin and Wang, Yichun and Comai, Annelise and Waldhaus, Joerg and Hansen, Anders S and Li, Wenbo and Liu, Jie},
-  journal={bioRxiv},
-  pages={2025--05},
+  author={Zhang, Zhenhao and Bao, Xinyu and Jiang, Linghua and Luo, Xin and Zhang, Zheyu and Yin, Jing and Zhao, Meiqi and Wang, Yichun and Comai, Annelise and Waldhaus, Joerg and others},
+  journal={Nucleic Acids Research},
+  volume={53},
+  number={21},
+  pages={gkaf1269},
   year={2025},
-  publisher={Cold Spring Harbor Laboratory}
+  publisher={Oxford University Press}
 }
 ```
 
