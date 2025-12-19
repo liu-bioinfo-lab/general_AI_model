@@ -11,7 +11,8 @@
 
 ## Quick links
 
-- **Paper:** [Developing a general AI model for integrating diverse genomic modalities and comprehensive genomic knowledge](https://academic.oup.com/nar/article/53/21/gkaf1269/8340987)  
+- **Paper:** [Developing a general AI model for integrating diverse genomic modalities and comprehensive genomic knowledge](https://academic.oup.com/nar/article/53/21/gkaf1269/8340987)
+- **Website:** [https://epcot.io/](https://epcot.io/)
 - **Documentation & Tutorial:** [epcotv2-tutorial.readthedocs.io](https://epcotv2-tutorial.readthedocs.io)  
 - **Interactive Web Portal (Run predictions without installation):** [Hugging Face Space](https://huggingface.co/spaces/drjieliu/EPCOTv2-app)  
 - **Basic notebook (Colab):**  
